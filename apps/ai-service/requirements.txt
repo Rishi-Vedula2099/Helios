@@ -1,0 +1,8 @@
+langchain
+llama-index
+ollama
+openai
+pandas
+scikit-learn
+fastapi
+uvicorn
